@@ -11,7 +11,7 @@ ML courses on Deep Learning and Generative AI
 
 ## 📌 About This Repository
 
-This repo contains my **notes, lab notebooks, assignments, and projects** for a 13-course program covering the full AI/ML development stack, from Python fundamentals to deploying production AI applications.
+This repo contains my notes, lab notebooks, assignments, and projects for a 13-course program covering the full AI/ML development stack, from Python fundamentals to deploying production AI applications.
 
 > **Goal:** Building demonstrable, portfolio-ready skills in machine learning, deep learning, NLP, and generative AI.
 
@@ -32,9 +32,9 @@ This repo contains my **notes, lab notebooks, assignments, and projects** for a 
 ## 🚀 Featured Projects
 
 ### 📄 AI Document Processing Agent *(Capstone - Upcoming)*
-> An end-to-end AI agent that ingests documents, extracts structured data, and surfaces insights via a Flask REST API — bridging my RPA background with modern AI engineering patterns.
+> An end-to-end AI agent that ingests documents, extracts structured data, and surfaces insights via a Flask REST API — bridging my Automation background with modern AI engineering patterns.
 
-### 📊 ML Model Notebook Suite *(Course 11)*
+### 📊 ML Model Notebook Suite 
 > Jupyter notebooks covering supervised/unsupervised ML models with real datasets, including preprocessing pipelines, model evaluation, and visualisation.
 
 ---
@@ -54,7 +54,7 @@ Notebooks  : Jupyter, Google Colab
 
 ## 🧑‍💻 About Me
 
-- 🏭 12 years IT experience | 8+ years in Automation | Agentic AI Developer | Asiring AI Engineer
+- 🏭 12 years IT experience | 8+ years in Automation | Agentic AI Developer | Aspiring AI Engineer
 - 📍 Kolkata, India
 - 🎯 Currently: Building AI engineering skills to pivot into full-time AI Engineer roles
 
