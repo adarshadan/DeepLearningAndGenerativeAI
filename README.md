@@ -1,4 +1,4 @@
-# Learning-DeepLearningAndGenerativeAI
+# DeepLearningAndGenerativeAI
 ML courses on Deep Learning and Generative AI
 # 🤖 IBM AI Developer Professional Certificate
 ### Hands-on Labs, Projects & Notes
